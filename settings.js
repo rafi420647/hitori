@@ -6,6 +6,32 @@ const chalk = require('chalk');
 	* Follow https://github.com/nazedev
 	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
 */
+/////////////////////// WELCOME SETTINGS ///////////////
+global.wlcmimg = 'https://img2.teletype.in/files/1b/5f/1b5f0a94-4daf-4354-8239-53006bab1b80.jpeg'
+global.leftimg = 'https://img1.teletype.in/files/80/37/8037ce95-98c9-41fc-90d6-23d0cc166dec.jpeg'
+global.wlcm = true //UNTUK AUTO WELCOMENYA
+global.textwlcm = `
+
+𝐖𝐄𝐋𝐂𝐎𝐌𝐄!! 
+
+𝐉𝐨𝐢𝐧 𝐒𝐪𝐮𝐚𝐝 𝐌𝐋 𝐲𝐚𝐚?? 𝐈𝐬𝐢 𝐟𝐨𝐫𝐦𝐚𝐭 𝐝𝐢 𝐛𝐚𝐰𝐚𝐡 𝐲𝐚𝐚𝐚!
+
+- 𝐍𝐚𝐦𝐚: 
+- 𝐔𝐦𝐮𝐫:
+- 𝐀𝐬𝐤𝐨𝐭:
+- 𝐓𝐮𝐣𝐮𝐚𝐧 𝐌𝐚𝐬𝐮𝐤 𝐒𝐐: 
+
+𝐊𝐚𝐥𝐨 𝐬𝐮𝐝𝐚𝐡 𝐤𝐢𝐫𝐢𝐦 𝐬𝐬 𝐚𝐤𝐮𝐧 𝐦𝐥, 𝐚𝐤𝐮𝐧 𝐭𝐢𝐤𝐭𝐨𝐤, 𝐝𝐚𝐧 𝐟𝐨𝐭𝐨 𝐦𝐮𝐤𝐚 𝐧𝐲𝐚 𝐝𝐢𝐬𝐢𝐧𝐢 
+
+𝐔𝐧𝐭𝐮𝐤 𝐂𝐍 𝐝𝐚𝐧 𝐁𝐢𝐨 𝐧𝐲𝐚 𝐝𝐢 𝐛𝐚𝐰𝐚𝐡 𝐢𝐧𝐢⬇️
+
+𝟒𝟏𝟏 (nama) 𝐀𝐑𝐂𝐓𝐈𝐂
+
+𝑷𝑨𝑹𝑻 𝑶𝑭 𝑨𝑹𝑪𝑻𝑰𝑪 𝑾𝑯𝑰𝑻𝑬 𝑾𝑶𝑳𝑽𝑬𝑺 
+
+𝐁𝐚𝐜𝐚 𝐫𝐮𝐥𝐞𝐬 𝐲𝐚𝐧𝐠 𝐚𝐝𝐚 𝐝𝐢 𝐝𝐞𝐬𝐤𝐫𝐢𝐩𝐬𝐢 𝐝𝐚𝐧 𝐭𝐨𝐥𝐨𝐧𝐠 𝐩𝐚𝐭𝐮𝐡𝐢 𝐫𝐮𝐥𝐞𝐬 𝐧𝐲𝐚 𝐲𝐚𝐚𝐚 𝐭𝐞𝐦𝐚𝐧²!! 
+
+𝐒𝐞𝐥𝐚𝐦𝐚𝐭 𝐃𝐚𝐭𝐚𝐧𝐠 𝐝𝐢 𝐀𝐫𝐜𝐭𝐢𝐜 𝐖𝐡𝐢𝐭𝐞 𝐖𝐨𝐥𝐯𝐞𝐬 𝐝𝐚𝐧 𝐬𝐞𝐦𝐨𝐠𝐚 𝐤𝐚𝐥𝐢𝐚𝐧 𝐛𝐞𝐭𝐚𝐡 𝐲𝐚𝐚 ヾ(＾-＾)ノ
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
